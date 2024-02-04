@@ -1,0 +1,19 @@
+{
+  "name": "spritesheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "ffmpeg-extract-frames": "^2.0.2",
+    "image-size": "^1.1.1",
+    "rblx": "^1.5.1",
+    "spritesmith": "^3.4.1"
+  }
+}
