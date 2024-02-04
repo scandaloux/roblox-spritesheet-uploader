@@ -5,12 +5,21 @@ Make sure you have NodeJS installed on your system.
 The script can be ran in any terminal that can run the "node" command.
 
 Add your API key and user id of the account into config.json
-![image](https://github.com/scandaloux/roblox-spritesheet-uploader/assets/137931980/671acbdb-d028-411b-9b60-d3669fff94f1)<br /><br />
-**Make sure the current directory is set to the directory of the nodejs script before running any of these commands**<br /><br />
+![image](https://github.com/scandaloux/roblox-spritesheet-uploader/assets/137931980/671acbdb-d028-411b-9b60-d3669fff94f1)
+
+
+
+
+**Make sure the current directory is set to the directory of the nodejs script before running any of these commands**
+
+
 If it's your first time, you need to install the packages first:
 ```
 npm install
 ```
+
+
+
 Once the packages have been installed you can execute the script with the command below:
 ```
 node uploadSpritesheetFrom.js [VIDEOPATH] [FPS] [RESOLUTION]
