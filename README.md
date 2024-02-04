@@ -25,3 +25,6 @@ Once the packages have been installed you can execute the script with the comman
 node uploadSpritesheetFrom.js [VIDEOPATH] [FPS] [RESOLUTION]
 ```
 ![image](https://github.com/scandaloux/roblox-spritesheet-uploader/assets/137931980/4d790411-86a1-4fff-8d2c-f69225461f18)
+
+After running, the resulting images uploaded will be put into a easy to read .lua script like so:
+![image](https://github.com/scandaloux/roblox-spritesheet-uploader/assets/137931980/245062c9-d593-4d2d-bb61-01bd0f1d6b9b)
