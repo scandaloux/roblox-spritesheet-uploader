@@ -10,6 +10,8 @@ make sure you have NodeJS installed on your system
 the script can be ran in any terminal that can run the "node" command
 
 **make sure the current directory is set to the directory of the nodejs script before running any of these commands**
+
+
 if it's the first time running the script you need to install the packages first:
 ```
 npm install
