@@ -222,9 +222,9 @@ async function processSpritesheet(images, sheets) {
       count++
       const filePath = path.join(framesOutput, file);
       images.push(filePath)
+      console.log(chalk.green(file))
       if (count == framesPerImage) {
           count = 0
-          console.table(images)
           sheets++
           await processSpritesheet(images, sheets)
           console.log(chalk.green("complete"))
