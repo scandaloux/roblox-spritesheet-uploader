@@ -9,7 +9,7 @@ if it's the first time running the script you need to install the packages first
 ```
 npm install
 ```
-
+once the packages have been installed you can finally use the script:
 ```
 node uploadSpritesheetFrom.js [VIDEOPATH] [FPS] [RESOLUTION]
 ```
